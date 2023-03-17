@@ -6,7 +6,7 @@ Hello, I'm [xp](https://www.yuque.com/xp-xyh), 一个热爱前端的coder！
 
 - 👨‍💼 重庆邮电大学 本科在读 2020-2024
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 这里是我的博客：[xp的博客](https://www.yuque.com/xp-xyh)
-- 📺 目前处在学习阶段，寒假期待有一个实习 ovo
+- 📺 目前在莉莉丝实习 ovo
 - 👯 如果可以的话，可以给我的博客点个赞哦(谢谢关注!)
 <!--
 - 👯 I’m looking to collaborate on ...
